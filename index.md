@@ -14,12 +14,9 @@
 |---|---|---|
 | Cell 1 | Cell 2 | Cell 3 |
 | Cell 4 | Cell 5 | Cell 6 |
-
-```javascript
-function greet(name) {
-  console.log("Hello, " + name + "!");
-}
-````
+``` javascript
+var myVar = "Hello, world!";
+```
 [Link text](https://www.example.com)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
