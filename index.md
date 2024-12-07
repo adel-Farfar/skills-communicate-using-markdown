@@ -10,6 +10,12 @@
 
 *This text is italicized.*
 
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+
 | Header 1 | Header 2 | Header 3 |
 |---|---|---|
 | Cell 1 | Cell 2 | Cell 3 |
@@ -20,3 +26,5 @@ var myVar = "Hello, world!";
 [Link text](https://www.example.com)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
