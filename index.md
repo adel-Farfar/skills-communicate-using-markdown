@@ -22,4 +22,4 @@ function greet(name) {
 ````
 [Link text](https://www.example.com)
 
-[Image of a cat](https://example.com/cat.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
